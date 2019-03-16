@@ -1,6 +1,6 @@
 # Package Layered Lambdas
 
-[![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoidDJRd29PcytxMjJSRzlPSXdYTTlyYmphZjhEWFFwRndaaWxBNldVZXdEREJZZVhobmN5aWNqRVNLeFpOck5DZjVKZURnSm03cHVnZFJIN2tDQm9FZVR3PSIsIml2UGFyYW1ldGVyU3BlYyI6IjdkaTZ6dkZWdXg4WDQ3WXYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=saga)](https://console.aws.amazon.com/codesuite/codebuild/projects/package-layered-lambdas/history?region=us-east-1)
+[![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoidDJRd29PcytxMjJSRzlPSXdYTTlyYmphZjhEWFFwRndaaWxBNldVZXdEREJZZVhobmN5aWNqRVNLeFpOck5DZjVKZURnSm03cHVnZFJIN2tDQm9FZVR3PSIsIml2UGFyYW1ldGVyU3BlYyI6IjdkaTZ6dkZWdXg4WDQ3WXYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=saga)](https://console.aws.amazon.com/codesuite/codebuild/projects/package-layered-lambdas/history?region=us-east-1) [![Greenkeeper badge](https://badges.greenkeeper.io/nRFCloud/package-layered-lambdas.svg)](https://greenkeeper.io/)
 
 Packages lambdas with intra-project dependencies using Webpack and a base layer with the dependencies defined in `package.json`.
 
