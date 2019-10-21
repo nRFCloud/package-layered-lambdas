@@ -28,7 +28,7 @@
   "dependencies": {
     "aws-sdk": "^2.493.0",
     "dependency-tree": "^7.0.2",
-    "glob": "^7.1.4",
+    "glob": "^7.1.5",
     "tmp": "0.1.0",
     "ts-loader": "^6.0.4",
     "webpack": "^4.37.0",
