@@ -46,7 +46,7 @@
     "@types/webpack": "^4.4.35",
     "@types/webpack-node-externals": "^1.6.3",
     "@types/yazl": "^2.4.1",
-    "husky": "^3.0.0",
+    "husky": "^4.2.0",
     "prettier": "^1.18.2",
     "tslint": "^5.18.0",
     "typescript": "^3.5.3"
