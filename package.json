@@ -41,7 +41,7 @@
     "@nrfcloud/tslint-config": "^3.10.0",
     "@types/dependency-tree": "^6.1.0",
     "@types/glob": "^7.1.1",
-    "@types/node": "^12.6.6",
+    "@types/node": "^13.5.2",
     "@types/tmp": "0.1.0",
     "@types/webpack": "^4.4.35",
     "@types/webpack-node-externals": "^1.6.3",
