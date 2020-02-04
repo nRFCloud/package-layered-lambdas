@@ -18,4 +18,4 @@ phases:
       - npm run lint
       - npx tsc
       - npx greenkeeper-lockfile-upload
-      - npm i semantic-release; npx semantic-release || true
+      - npx semantic-release --debug || true
