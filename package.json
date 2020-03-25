@@ -68,7 +68,7 @@
     "remoteTags": true
   },
   "engines": {
-    "node": ">=8.0.0",
+    "node": ">=12.0.0",
     "npm": ">=6.0.0"
   },
   "husky": {
