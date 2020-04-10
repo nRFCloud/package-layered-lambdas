@@ -63,6 +63,7 @@ export const packBaseLayer = async (args: {
     console.error(chalk.gray(`npm ci --ignore-scripts --only=prod`));
     const p = spawn('npm', ['ci', '--ignore-scripts', '--only=prod'], {
       cwd: installDir,
+      shell: true,
     });
     p.on('close', code => {
       if (code !== 0) {
