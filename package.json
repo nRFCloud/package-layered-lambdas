@@ -39,7 +39,7 @@
     "@commitlint/cli": "^8.1.0",
     "@commitlint/config-angular": "^8.1.0",
     "@nrfcloud/tslint-config": "^3.10.0",
-    "@types/dependency-tree": "^6.1.0",
+    "@types/dependency-tree": "^7.2.0",
     "@types/glob": "^7.1.1",
     "@types/node": "^12.6.6",
     "@types/tmp": "0.1.0",
