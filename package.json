@@ -30,8 +30,8 @@
     "dependency-tree": "^7.0.2",
     "glob": "^7.1.4",
     "tmp": "0.1.0",
-    "ts-loader": "^6.0.4",
-    "webpack": "^4.37.0",
+    "ts-loader": "^9.4.2",
+    "webpack": "^5.75.0",
     "webpack-node-externals": "^1.7.2",
     "yazl": "^2.5.1"
   },
